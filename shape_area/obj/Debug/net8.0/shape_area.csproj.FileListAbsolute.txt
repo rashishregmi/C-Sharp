@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\shape_area\bin\Debug\net8.0\shape_area.exe
+C:\Users\Dell\source\repos\shape_area\bin\Debug\net8.0\shape_area.deps.json
+C:\Users\Dell\source\repos\shape_area\bin\Debug\net8.0\shape_area.runtimeconfig.json
+C:\Users\Dell\source\repos\shape_area\bin\Debug\net8.0\shape_area.dll
+C:\Users\Dell\source\repos\shape_area\bin\Debug\net8.0\shape_area.pdb
+C:\Users\Dell\source\repos\shape_area\obj\Debug\net8.0\shape_area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\shape_area\obj\Debug\net8.0\shape_area.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\shape_area\obj\Debug\net8.0\shape_area.AssemblyInfo.cs
+C:\Users\Dell\source\repos\shape_area\obj\Debug\net8.0\shape_area.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\shape_area\obj\Debug\net8.0\shape_area.dll
+C:\Users\Dell\source\repos\shape_area\obj\Debug\net8.0\refint\shape_area.dll
+C:\Users\Dell\source\repos\shape_area\obj\Debug\net8.0\shape_area.pdb
+C:\Users\Dell\source\repos\shape_area\obj\Debug\net8.0\shape_area.genruntimeconfig.cache
+C:\Users\Dell\source\repos\shape_area\obj\Debug\net8.0\ref\shape_area.dll
