@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Rectangle area calc\bin\Debug\net8.0\Rectangle area calc.exe
+C:\Users\Dell\source\repos\Rectangle area calc\bin\Debug\net8.0\Rectangle area calc.deps.json
+C:\Users\Dell\source\repos\Rectangle area calc\bin\Debug\net8.0\Rectangle area calc.runtimeconfig.json
+C:\Users\Dell\source\repos\Rectangle area calc\bin\Debug\net8.0\Rectangle area calc.dll
+C:\Users\Dell\source\repos\Rectangle area calc\bin\Debug\net8.0\Rectangle area calc.pdb
+C:\Users\Dell\source\repos\Rectangle area calc\obj\Debug\net8.0\Rectangle area calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Rectangle area calc\obj\Debug\net8.0\Rectangle area calc.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Rectangle area calc\obj\Debug\net8.0\Rectangle area calc.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Rectangle area calc\obj\Debug\net8.0\Rectangle area calc.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Rectangle area calc\obj\Debug\net8.0\Rectangle area calc.dll
+C:\Users\Dell\source\repos\Rectangle area calc\obj\Debug\net8.0\refint\Rectangle area calc.dll
+C:\Users\Dell\source\repos\Rectangle area calc\obj\Debug\net8.0\Rectangle area calc.pdb
+C:\Users\Dell\source\repos\Rectangle area calc\obj\Debug\net8.0\Rectangle area calc.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Rectangle area calc\obj\Debug\net8.0\ref\Rectangle area calc.dll

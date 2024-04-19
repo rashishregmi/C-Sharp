@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\prime\bin\Debug\prime.exe.config
+C:\Users\Dell\source\repos\prime\bin\Debug\prime.exe
+C:\Users\Dell\source\repos\prime\bin\Debug\prime.pdb
+C:\Users\Dell\source\repos\prime\obj\Debug\prime.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\prime\obj\Debug\prime.exe
+C:\Users\Dell\source\repos\prime\obj\Debug\prime.pdb
