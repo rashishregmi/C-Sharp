@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Constants\bin\Debug\Constants.exe.config
+C:\Users\Dell\source\repos\Constants\bin\Debug\Constants.exe
+C:\Users\Dell\source\repos\Constants\bin\Debug\Constants.pdb
+C:\Users\Dell\source\repos\Constants\obj\Debug\Constants.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Constants\obj\Debug\Constants.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Constants\obj\Debug\Constants.exe
+C:\Users\Dell\source\repos\Constants\obj\Debug\Constants.pdb
