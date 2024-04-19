@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Namespace\bin\Debug\Namespace.exe.config
+C:\Users\Dell\source\repos\Namespace\bin\Debug\Namespace.exe
+C:\Users\Dell\source\repos\Namespace\bin\Debug\Namespace.pdb
+C:\Users\Dell\source\repos\Namespace\obj\Debug\Namespace.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Namespace\obj\Debug\Namespace.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Namespace\obj\Debug\Namespace.exe
+C:\Users\Dell\source\repos\Namespace\obj\Debug\Namespace.pdb
